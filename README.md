@@ -11,4 +11,4 @@ Specifically, the following models are addressed:
   <li>LSTM</li>
  </ul>
  
- The code is written in R, and the notebook is optimized  to be ran on Colab. AutoML optimization is uused in order to choose the best parameters for the LSTM model.
+ The code is written in R, and the notebook is optimized to be ran on Colab. AutoML optimization is used in order to choose the best hyperparameters for the LSTM model.
